@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/acl_parent.iml" filepath="$PROJECT_DIR$/acl_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infrastructure/api_gateway/api_gateway.iml" filepath="$PROJECT_DIR$/infrastructure/api_gateway/api_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commom/commom.iml" filepath="$PROJECT_DIR$/commom/commom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infrastructure/infrastructure.iml" filepath="$PROJECT_DIR$/infrastructure/infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commom/service1base/service1base.iml" filepath="$PROJECT_DIR$/commom/service1base/service1base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_acl/service_acl.iml" filepath="$PROJECT_DIR$/service/service_acl/service_acl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infrastructure/servicebase/servicebase.iml" filepath="$PROJECT_DIR$/infrastructure/servicebase/servicebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commom/springsecurity/springsecurity.iml" filepath="$PROJECT_DIR$/commom/springsecurity/springsecurity.iml" />
+    </modules>
+  </component>
+</project>
